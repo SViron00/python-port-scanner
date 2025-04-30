@@ -9,6 +9,5 @@ It scans a target host and reports open ports in the specified range.
 2. Run the script (either way):
    ```bash
    python port_scanner.py
-
-   ```bash
+   
    py port_scanner.py
