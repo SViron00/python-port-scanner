@@ -17,7 +17,7 @@ It scans a target host and reports open ports in the specified range.
     ```bash
     Scanning 127.0.0.1 from port 1 to 1024...
    
-    [+] Port 22 is OPEN
-    [+] Port 80 is OPEN
+    [+] Port 22 is OPEN - Service: SSH
+    [+] Port 80 is OPEN - Service: HTTP
     
     Scan completed in: 0:00:01.234
