@@ -21,3 +21,4 @@ It scans a target host and reports open ports in the specified range.
     [+] Port 80 is OPEN - Service: HTTP
     
     Scan completed in: 0:00:01.234
+    Found 2 open port(s)
